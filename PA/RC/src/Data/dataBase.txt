@@ -1,0 +1,6 @@
+-----------User # 1------------
+Nombre: Justin
+Apellidos: Castro
+Correo: justincastro2505@gmail.com
+Contraseña: JustinCastro25@
+Edad: 18
